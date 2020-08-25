@@ -4,7 +4,7 @@
 
 OpenSCAD based parametric electronics project box generator.
 
-## Notable customizable features:
+## Notable customizable features
 * Dimensions and fastener size
 * Board standoffs
 * Holes for panel mounted devices
