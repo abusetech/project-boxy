@@ -2,7 +2,7 @@
 
 ![3D render of a project box rendered using this script.](images/project-boxy.jpg)
 
-OpenSCAD based parametric electronics project box generator.
+OpenSCAD-based parametric electronics project box generator that can be used to programmatically generate a 3D printable enclosure from a set of user-defined parameters.
 
 ## Notable customizable features
 * Dimensions and fastener size
